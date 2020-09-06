@@ -21,6 +21,7 @@
 
 <hr>
 <br>
+
 #### Tech Stack 
 
 | Cateogory  | Stack |
