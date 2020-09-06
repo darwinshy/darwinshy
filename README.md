@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hello Devs 👋
 
-<!--
-**reverope/reverope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I am Shashwat Priyadarshy, a Computer Science Undergraduate at <a href="http://www.nits.ac.in/"> National Institute of Technology, Silchar </a>.
+# From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset , and given me the curiosity to learn more. I firmly believe that no amount of knowledge is enough knowledge. 🧠
+
 
 Here are some ideas to get you started:
 
