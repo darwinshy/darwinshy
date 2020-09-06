@@ -14,10 +14,10 @@
 <br>
 
 #### Statistics
-<p align="center">
+
 ![reverope's github stats](https://github-readme-stats.vercel.app/api?username=reverope&show_icons=true&theme=dracula)
- ![reverope's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=reverope&count_private=true&theme=dracula)
-</p>
+![reverope's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=reverope&count_private=true&theme=dracula)
+
 <br>
 <hr>
 <br>
