@@ -5,7 +5,7 @@
 "From very early on in my life, I started to fall in love with technology. This love has helped me develop a very good technological mindset , and given me the curiosity to learn more. I firmly believe that no amount of knowledge is enough knowledge."
 
 
-- 🔭 I’m currently working on <a href="https://www.facebook.com/dscnits" Developers Student Club, Website </a>.
+- 🔭 I’m currently working on <a href="https://www.facebook.com/dscnits"> Developers Student Club, Website </a>.
 - 🌱 I’m currently learning <a href="https://docs.rive.app">Rive</a>.
 - 💬 Ask me anything about Website and Android Development.
 
