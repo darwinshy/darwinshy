@@ -82,4 +82,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shashwatpriyadarshy/)](https://www.linkedin.com/in/shashwatpriyadarshy/)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shatish123456789@gmail.com)](mailto:shatish123456789@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/shashwat.priyadarshy.3)](https://www.facebook.com/shashwat.priyadarshy.3)
-[![Facebook Badge](https://img.shields.io/badge/-GitHub-%231877F2.svg?&style=flat-square&logoColor=white&link=https://reverope.github.io/)](https://reverope.github.io/)
+[![Facebook Badge](https://img.shields.io/badge/-GitHub-%231877F2.svg?&style=flat-square&logoColor=white&link=https://github.com/reverope/)](https://github.com/reverope)
