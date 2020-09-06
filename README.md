@@ -13,11 +13,14 @@
 <hr>
 <br>
 
-#### Statistics
+#### GitHub Statistics
 
-![reverope's github stats](https://github-readme-stats.vercel.app/api?username=reverope&show_icons=true&theme=dracula)
-![reverope's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=reverope&count_private=true&theme=dracula)
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=reverope&hide=stars&show_icons=true&theme=dracula&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reverope&count_private=true&theme=dracula">
 
+</p>
 <br>
 <hr>
 <br>
