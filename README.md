@@ -1,9 +1,9 @@
 ### Hello Devs 👋 , I am
 
-# Shashwat Priyadarshy , 
 <img src="https://lh4.googleusercontent.com/8cqQ4WhnbUNMKx43A91Z_dabNEqrbwCM1ynmOYRlY8HyohPb9Sh9pKBxWbRGnPtws2PO-mfTmlSVAp5L8gvT=w1920-h948">
 "From very early on in my life, I started to fall in love with technology. This love has helped me develop a very good technological mindset , and given me the curiosity to learn more. I firmly believe that no amount of knowledge is enough knowledge."
 
+### A Computer Science Undergraduate at <a href="http://www.nits.ac.in/"> National Institute of Technology, Silchar </a>.
 
 - 🔭 I’m currently working on <a href="https://www.facebook.com/dscnits"> Developers Student Club, Website </a>.
 - 🌱 I’m currently learning <a href="https://docs.rive.app">Rive</a>.
