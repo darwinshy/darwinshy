@@ -1,7 +1,7 @@
 ### Hello Devs 👋 , I am
 
 # Shashwat Priyadarshy , 
-<img src="https://lh4.googleusercontent.com/8cqQ4WhnbUNMKx43A91Z_dabNEqrbwCM1ynmOYRlY8HyohPb9Sh9pKBxWbRGnPtws2PO-mfTmlSVAp5L8gvT=w1920-h948>
+<img src="https://lh4.googleusercontent.com/8cqQ4WhnbUNMKx43A91Z_dabNEqrbwCM1ynmOYRlY8HyohPb9Sh9pKBxWbRGnPtws2PO-mfTmlSVAp5L8gvT=w1920-h948">
 "From very early on in my life, I started to fall in love with technology. This love has helped me develop a very good technological mindset , and given me the curiosity to learn more. I firmly believe that no amount of knowledge is enough knowledge."
 
 
