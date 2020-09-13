@@ -1,9 +1,7 @@
 ### Hello Devs 👋 , I am
 
 # Shashwat Priyadarshy , 
-### A Computer Science Undergraduate at <a href="http://www.nits.ac.in/"> National Institute of Technology, Silchar </a>.
-### Android/iOS and Website Developer | UX/UI Designer  
-
+<img src="https://doc-14-3g-docs.googleusercontent.com/docs/securesc/4nu7gbh4dahiv4v8mc8oe4b5lonhp1i1/qv4g4b1fvst8helahv7hhbm1s3vipnf7/1599995625000/07288673252977009020/07288673252977009020/1z7pVNNUmJiki9jPU17mwWMEyThUwsYKw?e=download&authuser=0&nonce=fpghdscudj8va&user=07288673252977009020&hash=36nkg38t7k1tako9rca12pv5565v3232">
 "From very early on in my life, I started to fall in love with technology. This love has helped me develop a very good technological mindset , and given me the curiosity to learn more. I firmly believe that no amount of knowledge is enough knowledge."
 
 
