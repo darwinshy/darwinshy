@@ -1,6 +1,6 @@
 ### Hello Devs 👋 , I am
 
-<img src="https://lh4.googleusercontent.com/8cqQ4WhnbUNMKx43A91Z_dabNEqrbwCM1ynmOYRlY8HyohPb9Sh9pKBxWbRGnPtws2PO-mfTmlSVAp5L8gvT=w1920-h948">
+<img src="https://raw.githubusercontent.com/reverope/reverope/master/Untitled-4(1).png">
 
 ### A Computer Science Undergraduate at <a href="http://www.nits.ac.in/"> National Institute of Technology, Silchar </a>.
 "From very early on in my life, I started to fall in love with technology. This love has helped me develop a very good technological mindset , and given me the curiosity to learn more. I firmly believe that no amount of knowledge is enough knowledge."
