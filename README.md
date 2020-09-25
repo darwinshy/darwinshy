@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on <a href="https://www.facebook.com/dscnits"> Developers Student Club, Website </a>.
 - 🌱 I’m currently learning <a href="https://docs.rive.app">Rive</a>, <a href="https://reactjs.org/">React</a>.
-- 💬 Ask me anything about Website and App Development.
+- 💬 Ask me anything about Website and App Development, Cross-Platform Development.
 
 <br>
 <hr>
