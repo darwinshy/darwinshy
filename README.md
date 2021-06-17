@@ -5,7 +5,7 @@
 "From very early on in my life, I started to fall in love with technology. This love has helped me develop a very good technological mindset , and given me the curiosity to learn more. I firmly believe that no amount of knowledge is enough knowledge."
 
 
-- 🔭 I’m currently working on <a href="https://github.com/knight-18/Tecnoesis-21">Tecnoesis 2021</a>.
+<!-- - 🔭 I’m currently working on <a href="https://github.com/knight-18/Tecnoesis-21">Tecnoesis 2021</a>. -->
 - 🌱 I’m currently learning <a href="https://docs.rive.app">Rive</a>, <a href="https://reactjs.org/">React</a>,<a href="https://www.tensorflow.org/js"> Tensorflow.js</a>
 - 💬 Ask me anything about Website and App Development, Cross-Platform Development.
 
