@@ -8,17 +8,16 @@
 - 🔭 I’m currently working with <a href="https://liveombre.com/">Ombre</a> as an SDE Intern.
 - 🌱 I’m currently learning <a href="https://docs.rive.app">Rive</a>, <a href="https://reactjs.org/">React</a>
 - 💬 Ask me anything about Website and App Development, Cross-Platform Development.
+- ⚡️ Fun fact: Reyna Main.
 
 <br>
 <hr>
 <br>
 
-#### Skills and Languages
+#### Skills
 
-<p align="center">
 
-<div align="center" width=60%>
-  
+<div align="center" width=100%>  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
@@ -39,11 +38,7 @@
 <code><img height="20" src="https://image.flaticon.com/icons/svg/888/888861.svg"></code>
 <code><img height="20" src="https://image.flaticon.com/icons/svg/726/726144.svg"></code>
 <code><img height="20" src="https://image.flaticon.com/icons/svg/888/888872.svg"></code>
-
-
 </div>
-</p>
-
 
 <br>
 <hr>
