@@ -12,7 +12,6 @@
 
 <br>
 <hr>
-<br>
 
 #### Skills
 
@@ -40,7 +39,6 @@
 <code><img height="20" margin="0 5" src="https://image.flaticon.com/icons/svg/888/888872.svg"></code>
 </div>
 
-<br>
 <hr>
 <br>
 
@@ -48,9 +46,9 @@
   
 | <img height="180" src="https://github-readme-stats.vercel.app/api?username=reverope&hide=stars&show_icons=true&theme=dark"> | <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reverope&count_private=true&theme=dark"> |
 | --- | --- |
-<br>
+
 <hr>
-<br>
+
 
 #### Tech Stack 
 <br>
@@ -61,9 +59,9 @@
 |App Developerment  | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>Flutter<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>Dart<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>Firebase |
 
 
-<br>
+
 <hr>
-<br>
+
 
 #### Contact Me 
 
