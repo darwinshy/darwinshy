@@ -45,13 +45,10 @@
 <br>
 
 #### GitHub Statistics
-
-<p align="space-around">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=reverope&hide=stars&show_icons=true&theme=dracula&line_height=32">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reverope&count_private=true&theme=dracula">
+  |<img src="https://github-readme-stats.vercel.app/api?username=reverope&hide=stars&show_icons=true&theme=dark">|
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reverope&count_private=true&theme=dark">|
 
-</p>
 <br>
 <hr>
 <br>
