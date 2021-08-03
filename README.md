@@ -2,11 +2,11 @@
 
 ## Shashwat Priyadarshy
 ### A Computer Science Undergraduate at <a href="http://www.nits.ac.in/"> National Institute of Technology, Silchar </a>.
-"From very early on in my life, I started to fall in love with technology. This love has helped me develop a very good technological mindset , and given me the curiosity to learn more. I firmly believe that no amount of knowledge is enough knowledge."
+"From very early on in my life, I started to fall in love with technology. This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that no amount of knowledge is enough knowledge."
 
 
 - 🔭 I’m currently working with <a href="https://liveombre.com/">Ombre</a> as an SDE Intern.
-- 🌱 I’m currently learning <a href="https://docs.rive.app">Rive</a>, <a href="https://reactjs.org/">React</a>
+- 🌱 I’m currently learning <a href="https://docs.rive.app">Rive</a>, <a href="https://cloud.google.com/functions">Cloud Functions</a>
 - 💬 Ask me anything about Website and App Development, Cross-Platform Development.
 - ⚡️ Fun fact: Reyna Main.
 
@@ -18,26 +18,26 @@
 
 
 <div align="center" width=100%>  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code> 
-<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></code>
-<code><img height="20" src="https://image.flaticon.com/icons/svg/726/726134.svg"></code>
-<code><img height="20" src="https://image.flaticon.com/icons/svg/888/888861.svg"></code>
-<code><img height="20" src="https://image.flaticon.com/icons/svg/726/726144.svg"></code>
-<code><img height="20" src="https://image.flaticon.com/icons/svg/888/888872.svg"></code>
+<code><img height="20" margin="0 5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code> 
+<code><img height="20" margin="0 5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" margin="0 5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
+<code><img height="20" margin="0 5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
+<code><img height="20" margin="0 5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" margin="0 5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+<code><img height="20" margin="0 5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
+<code><img height="20" margin="0 5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" margin="0 5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="20" margin="0 5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" margin="0 5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
+<code><img height="20" margin="0 5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg"></code> 
+<code><img height="20" margin="0 5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" margin="0 5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" margin="0 5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code> 
+<code><img height="20" margin="0 5" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></code>
+<code><img height="20" margin="0 5" src="https://image.flaticon.com/icons/svg/726/726134.svg"></code>
+<code><img height="20" margin="0 5" src="https://image.flaticon.com/icons/svg/888/888861.svg"></code>
+<code><img height="20" margin="0 5" src="https://image.flaticon.com/icons/svg/726/726144.svg"></code>
+<code><img height="20" margin="0 5" src="https://image.flaticon.com/icons/svg/888/888872.svg"></code>
 </div>
 
 <br>
@@ -46,8 +46,8 @@
 
 #### GitHub Statistics
   
-  | <img height="180" src="https://github-readme-stats.vercel.app/api?username=reverope&hide=stars&show_icons=true&theme=dark"> | <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reverope&count_private=true&theme=dark"> |
-
+| <img height="180" src="https://github-readme-stats.vercel.app/api?username=reverope&hide=stars&show_icons=true&theme=dark"> | <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reverope&count_private=true&theme=dark"> |
+| --- | --- |
 <br>
 <hr>
 <br>
@@ -59,7 +59,6 @@
 | ------------- | ------------- |
 | Website Developerment  | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>HTML <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>JS<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>SASS<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>NodeJS<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>MongoDB<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>Express |
 |App Developerment  | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>Flutter<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>Dart<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>Firebase |
-
 
 
 <br>
