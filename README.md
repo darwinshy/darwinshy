@@ -4,9 +4,7 @@
 ### A Computer Science Undergraduate at <a href="http://www.nits.ac.in/"> National Institute of Technology, Silchar </a>.
 "From very early on in my life, I started to fall in love with technology. This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that no amount of knowledge is enough knowledge."
 
-
-- 🔭 I’m currently working with <a href="https://liveombre.com/">Ombre</a> as an SDE Intern.
-- 🌱 I’m currently learning <a href="https://docs.rive.app">Rive</a>, <a href="https://cloud.google.com/functions">Cloud Functions</a>
+- 🌱 I’m currently learning Springboot and Cassandra DB.
 - 💬 Ask me anything about Website and App Development, Cross-Platform Development.
 - ⚡️ Fun fact: Reyna Main.
 
