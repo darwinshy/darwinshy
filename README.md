@@ -31,10 +31,6 @@
 <code><img height="20" margin="0 5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" margin="0 5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code> 
 <code><img height="20" margin="0 5" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></code>
-<code><img height="20" margin="0 5" src="https://image.flaticon.com/icons/svg/726/726134.svg"></code>
-<code><img height="20" margin="0 5" src="https://image.flaticon.com/icons/svg/888/888861.svg"></code>
-<code><img height="20" margin="0 5" src="https://image.flaticon.com/icons/svg/726/726144.svg"></code>
-<code><img height="20" margin="0 5" src="https://image.flaticon.com/icons/svg/888/888872.svg"></code>
 </div>
 
 <hr>
