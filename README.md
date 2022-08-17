@@ -39,6 +39,7 @@
 #### GitHub Statistics
   
 | <img height="180" src="https://github-readme-stats.vercel.app/api?username=darwinshy&hide=stars&show_icons=true&theme=dark"> | <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darwinshy&count_private=true&theme=dark"> |
+<img src="https://activity-graph.herokuapp.com/graph?username=darwinshy&theme=github" />
 | --- | --- |
 
 <hr>
