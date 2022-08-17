@@ -37,13 +37,11 @@
 <br>
 
 #### GitHub Statistics
-  
+<center>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darwinshy&theme=dark)](https://github.com/darwinshy/github-readme-streak-stats)
 <br>
-<img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darwinshy&count_private=true&theme=dark"> |
-<br>
-<img src="https://activity-graph.herokuapp.com/graph?username=darwinshy&theme=github" />
-
+<img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darwinshy&count_private=true&theme=dark">
+</center>
 <hr>
 
 
