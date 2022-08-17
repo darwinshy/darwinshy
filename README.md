@@ -40,9 +40,8 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=darwinshy&theme=dark&hide_border=true"/>
 <br>
- |
-<img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darwinshy&count_private=true&theme=dark">|
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darwinshy&count_private=true)|
+<img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darwinshy&count_private=true&theme=dark">
+ <img height="300" src="https://github-readme-stats.vercel.app/api?username=darwinshy&count_private=true">
 </p>
 
 <hr>
