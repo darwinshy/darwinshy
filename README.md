@@ -3,11 +3,6 @@
 ## Shashwat Priyadarshy
 ### A Computer Science Undergraduate at <a href="http://www.nits.ac.in/"> National Institute of Technology, Silchar </a>.
 "From very early on in my life, I started to fall in love with technology. This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that no amount of knowledge is enough knowledge."
-
-- 🌱 I’m currently learning React.
-- 💬 Ask me anything about Website and App Development, Cross-Platform Development.
-- ⚡️ Fun fact: Reyna Main.
-
 <br>
 <hr>
 
@@ -38,6 +33,7 @@
 
 #### GitHub Statistics
 <p align="center">
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darwinshy" alt="darwinshy" /></a> </p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=darwinshy&theme=dark&hide_border=true"/>
 <br>
 <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darwinshy&count_private=true&theme=dark">
